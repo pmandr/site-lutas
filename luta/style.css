@@ -1,0 +1,27 @@
+table,td,th {
+	border:1px solid #000;
+}
+th,dt {
+	background:#ccc;
+	font-weight:bold;
+}
+dd {
+	margin-bottom:5px;
+}
+#menu li {
+	list-style:none;
+	display:inline;
+}
+a {
+	color:blue;
+}
+#menu a {
+	padding:1px 3px;
+	font-weight:bold;
+}
+#menu a:hover {
+	background:blue;
+	color:white;
+	text-decoration:none;
+}
+
